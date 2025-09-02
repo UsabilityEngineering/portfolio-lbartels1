@@ -1,6 +1,6 @@
-# UX Portfolio
+# Lars' UX Portfolio
 
-About me...
+![A photo of Lars Bartels](/assests/mugshot.jpg)
 
 ## UX Team Project
 
