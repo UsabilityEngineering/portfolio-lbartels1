@@ -5,9 +5,9 @@ As both a Teaching Assistant for an introductory climbing class and as an employ
 
 The process of correctly installing the GriGri is about 3 distinct steps:
 
-* Opening the GriGri - (image)
-* Inserting the Rope the correct orientation - (image)
-* Attaching the GriGri to the harness (harness is not shown as this is focused on the GriGri not the carabiner) - (image)
+* Opening the GriGri - ![opened grigri](/images/opened.jpg)
+* Inserting the Rope the correct orientation - ![inserting the rope](/images/inserting_rope.jpg)
+* Attaching the GriGri to the harness (harness is not shown as this is focused on the GriGri not the carabiner) - ![The GriGri fully loaded](/images/fully_loaded.jpg)
 
 Since the product only requires three steps the overall use of the device is **efficient**. When a harness is already on and the device learned for about 10 minutes, installing the device usually takes between 10 - 20 seconds. Not only is it efficient but the process is **satisfying**. The device has a nice weight to it and the moving parts are solid, with a cling that resonates well. With time the user can eventually learn motions that reduce the time to take eventually turning the step by step process into a fluid, dance-like motion. When learning there are many **afforadances** which I actively saw helping the user to learn this product. The first is the hole in the device which the carbiner clips too (as seen in step 1). This is made to be the most obvious and only point and that the carabiner can clip to. When first looked at, it's clear that users lean to clipping a carabiner there. Another part which give affordances is the small embossments on the side pivoting plate and the internal cam (labeled below). They represent which direction the rope should go into the device (the side tied to a climber on the photo left). Making sure the rope is put into the device in the right direction is critical to the effectiveness of the device. 
 
