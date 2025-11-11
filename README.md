@@ -6,8 +6,8 @@ Hey I'm Lars Bartels, a student in Usability Engineering! This will be my blog g
 
 ## UX Team Project
 
-Coming soon.
+A11ytagger
 
 ## UX Journal
 
-[Replace with title of journal](journal/)
+[Journal Entry 1](journal/j01.md)
