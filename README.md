@@ -10,4 +10,4 @@ A11ytagger
 
 ## UX Journal
 
-[Journal Entry 1](journal/j01.md)
+[Journal Entry 1](/journal/j01.md)
